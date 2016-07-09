@@ -1,0 +1,14 @@
+! jsphsnkr 2016
+! DMG-01 inspired colours
+
+#define bg      #8cad0f
+#define fg      #0f380f
+#define blk     #0f380f
+#define bblk    #306230
+#define red     #306230
+#define grn     #0f380f
+#define ylw     #306230
+#define blu     #0f380f
+#define mag     #306230
+#define cyn     #306230
+#define wht     #0f380f
