@@ -3,12 +3,6 @@
 
 #define bg      #222222
 #define fg      #d8d8da
-#define blk     #222222
-#define bblk    #666666
 #define red     #d65656
 #define grn     #b4d455
-#define ylw     #ebbe55
 #define blu     #7bb4e4
-#define mag     #ca64cd
-#define cyn     #8cced8
-#define wht     #cccccc
