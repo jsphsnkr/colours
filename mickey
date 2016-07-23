@@ -1,0 +1,8 @@
+! mickey - the sourcerers apprentice
+! credit to xero (http://sourcerer.xero.nu/)
+
+#define bg      #222222
+#define fg      #c2c2b0
+#define red     #8f6f8f
+#define grn     #ff9800
+#define blu     #528b8b
