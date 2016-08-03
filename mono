@@ -1,8 +1,8 @@
-! jsphsnkr 2016
 ! mono
+! jsphsnkr
 
 #define bg      #222222
-#define fg      #bbbbbb
-#define red     #cccccc
-#define grn     #999999
-#define blu     #888888
+#define fg      #c7c7c7
+#define red     #898989
+#define grn     #7c7c7c
+#define blu     #9e9e9e
