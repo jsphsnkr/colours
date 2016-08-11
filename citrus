@@ -2,7 +2,7 @@
 ! citrus
 
 #define bg      #222222
-#define fg      #cccccc
-#define red     #cc9952
-#define grn     #8bb346
-#define blu     #ccc252
+#define fg      #aaaaaa
+#define red     #bb8841
+#define grn     #7aa235
+#define blu     #bbb141

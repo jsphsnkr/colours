@@ -2,7 +2,7 @@
 ! calm
 
 #define bg      #222222
-#define fg      #888888
-#define red     #705050
-#define grn     #507050
-#define blu     #505070
+#define fg      #aaaaaa
+#define red     #806060
+#define grn     #608060
+#define blu     #606080

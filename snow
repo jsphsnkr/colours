@@ -2,7 +2,7 @@
 ! snow - unsplash
 
 #define bg      #dedee8
-#define fg      #010006
+#define fg      #666666
 #define red     #7b92b5
-#define grn     #1e2d42
+#define grn     #999999
 #define blu     #5c6773
