@@ -3,6 +3,6 @@
 
 #define bg      #eeeeee
 #define fg      #3c3c3b
-#define red     #d5302b
-#define grn     #545454
-#define blu     #777777
+#define red     #cb6077
+#define grn     #747474
+#define blu     #999999

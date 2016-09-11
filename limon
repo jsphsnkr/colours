@@ -2,7 +2,7 @@
 ! haze	
 
 #define bg      #222222
-#define fg      #9e9e9b
+#define fg      #dddddd
 #define red     #bbb141
-#define grn     #888888
+#define grn     #9e9e9b
 #define blu     #bbbbb7
