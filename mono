@@ -2,7 +2,7 @@
 ! jsphsnkr
 
 #define bg      #222222
-#define fg      #c7c7c7
-#define red     #898989
-#define grn     #7c7c7c
-#define blu     #9e9e9e
+#define fg      #aaaaaa
+#define hi      #cccccc
+#define lo      #666666
+#define md      #888888
