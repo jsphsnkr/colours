@@ -1,0 +1,7 @@
+! arc inspired term colours
+
+#define bg  #ffffff
+#define fg	#383c4a
+#define hi	#555555
+#define lo	#999999
+#define md	#777777

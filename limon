@@ -2,7 +2,7 @@
 ! limon 
 
 #define bg      #222222
-#define fg      #dddddd
-#define red     #bbb141
-#define grn     #9e9e9b
-#define blu     #bbbbb7
+#define fg      #cccccc
+#define hi     #bbb141
+#define lo     #9e9e9b
+#define md     #bbbbb7
